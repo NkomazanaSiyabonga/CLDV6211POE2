@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CloudDevelopmentPOE1.props" />
+</Project>
